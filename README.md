@@ -11,3 +11,7 @@ Fully responsive :)
 [filtering-menu]
 
 [![project8.png](https://i.postimg.cc/XNs4LQvd/project8.png)](https://postimg.cc/9zw6FPZQ)
+
+## Installation
+
+Run the comannds npm i & npm run start
