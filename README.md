@@ -5,7 +5,8 @@ Here is deployed version:
 
 ## Introduction
 
-Simple React app where you can filter items by categories like 'breakfast', 'lunch', 'shakes' and show them 'all'
+Simple React app where you can filter items by categories like 'breakfast', 'lunch', 'shakes' and show them 'all'. 
+If you add a new category it's reflected in quantity of buttons: new category - new button for filtering!
 Fully responsive :)
 
 [filtering-menu]
